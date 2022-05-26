@@ -1,5 +1,5 @@
 manifests:
-  - https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json
+- Bayeux Tapestry: https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json
   - https://dnoneill.github.io/annotate/manifests/parismap.json
   - https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json
   - https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json
