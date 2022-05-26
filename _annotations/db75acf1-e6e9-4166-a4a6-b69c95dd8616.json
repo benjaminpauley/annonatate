@@ -1,0 +1,35 @@
+---
+canvas: "https://iiif.archivelab.org/iiif/worksofmralexan02pope$7/canvas"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Engraved ornament t.p. 2",
+            "purpose": "identifying",
+            "creator": {
+                "id": "benjaminpauley",
+                "name": "benjaminpauley"
+            },
+            "created": "2022-05-26T19:22:43.897Z",
+            "modified": "2022-05-26T19:22:56.808Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.archivelab.org/iiif/worksofmralexan02pope$7/canvas",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=840.7649536132812,2163.586181640625,1062.9912719726562,665.548828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://iiif.archivelab.org/iiif/worksofmralexan02pope/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "db75acf1-e6e9-4166-a4a6-b69c95dd8616.json",
+    "motivation": "commenting"
+}
